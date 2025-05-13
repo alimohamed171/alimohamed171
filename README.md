@@ -1,7 +1,7 @@
 ## Hi there 👋
 📊 *GitHub Stats*  
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alimohamed171&theme=onedark&column=3&row=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alimohamed171&show_icons=true&theme=rose_pine&hide_border=true" width="50%" alt="GitHub Stats">
 </p>
 
 <p align="center">
