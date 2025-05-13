@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">✨ Hola, I'm Basant ! 👋</h1>
+<h1 align="center">✨ Hola, I'm Ali ! 👋</h1>
 <h3 align="center"> Software Engineer | Java & Kotlin Enthusiast | Mobile Dev </h3>
 
 📊 *GitHub Stats*  
